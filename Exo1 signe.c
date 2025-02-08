@@ -11,7 +11,7 @@ int main()
     }
         else
         {
-            printf ("n est negatif");
+            printf("n est negatif");
         }
     return(0);
 }
