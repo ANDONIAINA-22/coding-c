@@ -8,9 +8,9 @@ int main()
     scanf("%f",&a);
     printf ("Entrer le nombre b: ");
     scanf("%f",&b);
-    printf ("Entrer le coefficient de a,c: ");//Demande à l'utilisateur d'entrer le coefficient de a
+    printf ("Entrer le coefficient de a,c: ");//Demande Ã  l'utilisateur d'entrer le coefficient de a
     scanf("%d",&c);
-    printf ("Entrer le coefficient de b,k: ");//Demande à l'utilisateur d'entrer le coefficient de b
+    printf ("Entrer le coefficient de b,k: ");//Demande Ã  l'utilisateur d'entrer le coefficient de b
     scanf("%d",&k);
     m=((a*c)+(b*k))/(c+k);
     printf("Leur moyenne est m= %f",m);
