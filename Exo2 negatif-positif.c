@@ -15,4 +15,5 @@ int main()
     {
         printf("Leur produit est negatif");
     }
+    return(0);
 }
