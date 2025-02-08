@@ -7,7 +7,7 @@ int main()
     scanf("%f", &n);
     printf ("Veuillez entrer un nombre p: ");
     scanf("%f", &p);
-    if (p>0 && n>0 || p<0 && n<0)
+    if ((p>0 && n>0) ||( p<0 && n<0))
     {
         printf ("Leur produit est positif");
     }
