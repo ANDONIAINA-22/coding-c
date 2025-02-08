@@ -1,4 +1,4 @@
-//ce programme affirme à l'utilisateur si le produit deux nombres est positif ou negatif
+//ce programme affirme Ã  l'utilisateur si le produit deux nombres est positif ou negatif
 #include <stdio.h>
 int main()
 {
