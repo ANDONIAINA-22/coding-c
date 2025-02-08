@@ -39,4 +39,5 @@ int main()
         printf("la solution x1=%f+%fi\nx2=%f-%fi",p,n,p,n);
 
     }
+    return(0);
 }
