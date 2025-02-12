@@ -1,5 +1,5 @@
+//Ce programme affiche les diviseurs d'un entier N 
 #include <stdio.h>
-#include <math.h>
 
 int main()
 {
@@ -15,5 +15,5 @@ int main()
         }
 
     }
-
+    return(0);
 }
